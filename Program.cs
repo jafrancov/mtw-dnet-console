@@ -6,7 +6,8 @@ namespace mtw_dnet_console
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int edad = 20;
+            Console.WriteLine("Hola MTW!");
         }
     }
 }

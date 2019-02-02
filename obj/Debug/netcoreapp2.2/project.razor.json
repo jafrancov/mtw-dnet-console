@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/jafrancov/dev/msdotnet/mtw_dnet_console/mtw_dnet_console.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
